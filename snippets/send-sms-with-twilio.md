@@ -28,7 +28,7 @@ export function sendText(phone, body) {
 }
 ```
 
-_Note: We created the helper funcion `sendText` so that you could send SMS messages from any part of your code, without exposing account credentials. (Of course, in a regular Nodejs environment, you would load those credentials from environment variables anyway, instead of including them in the code.)_
+_Note: We created the helper function `sendText` so that you could send SMS messages from any part of your code, without exposing account credentials. (Of course, in a regular Nodejs environment, you would load those credentials from environment variables anyway, instead of including them in the code.)_
 
 ## Sending messages
 
