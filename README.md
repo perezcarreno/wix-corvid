@@ -4,7 +4,7 @@
 
 ## Where are the snippets?
 
-- You'll find the code in the snippets folder.
+- You'll find the code in the [snippets](https://github.com/perezcarreno/wix-corvid/tree/master/snippets) folder.
 
 ## Credits
 
