@@ -2,7 +2,7 @@ Allows you to send SMS text messages from your Wix Corvid account via Twilio's P
 
 > You'll need an active Twilio account with a phone number for this to work.
 
-## Preparing funcionality
+## Preparing functionality
 
 - First of all, go to your `node_modules` folder inside the Corvid editor and install `twilio`. Wix already has the library available, so why not take advantage of it.
 - To keep your code organized, create a `utils` folder inside your `Backend` folder to store our helper file.
